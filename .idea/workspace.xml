@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35f8aece-9299-40ca-915b-99043b620393" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KunalDsa/BinarySearch/OrderAgnoisticBinarySearch2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,11 @@
     "Application.LC69Sqrt.executor": "Run",
     "Application.LargestElement.executor": "Run",
     "Application.Level1.executor": "Run",
+    "Application.MaximumConsecutiveOnes.executor": "Run",
     "Application.Min_And_SecondMin.executor": "Run",
+    "Application.MissingNumberInArray.executor": "Run",
+    "Application.MoveAllZerosToEnd.executor": "Run",
+    "Application.Oct2525.executor": "Run",
     "Application.OrderAgnoisticBinarySearch.executor": "Run",
     "Application.OrderAgnoisticBinarySearch2.executor": "Run",
     "Application.Pattern1.executor": "Run",
@@ -80,6 +83,7 @@
     "Application.PrintAllDivisors.executor": "Run",
     "Application.ReverseANumber.executor": "Debug",
     "Application.RichestCustomerWealthLC1672.executor": "Run",
+    "Application.RotateArrayNTimes.executor": "Run",
     "Application.SecondLargest.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -159,6 +163,16 @@
           <url>file://$PROJECT_DIR$/src/Arrays_Easy/Min_And_SecondMin.java</url>
           <line>26</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays_Easy/RotateArrayNTimes.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays_Easy/MaximumConsecutiveOnes.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Patterns/PatternsAfter7.java</url>
